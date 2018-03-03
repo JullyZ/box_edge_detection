@@ -1,6 +1,6 @@
 # box_edge_detection
 
-box edge detection using RCF<sup>[[1]]</sup>
+box edge detection using RCF <sup>[[1]]</sup>
 
 VGG-16 as backbone, every convolution stage as an output to predict the box edge.
 
