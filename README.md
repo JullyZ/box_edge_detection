@@ -14,6 +14,6 @@ example：
 
     reference:
 
-    [1] Convolutional Features for Edge Detection
+    [1] Richer Convolutional Features for Edge Detection
 
 [1]: https://arxiv.org/abs/1612.02103v2 "Richer Convolutional Features for Edge Detection"
